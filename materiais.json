@@ -1,0 +1,6 @@
+{
+  "nome": "Nome do cliente",
+  "materiais": [
+    { "slug": "exemplo", "titulo": "Exemplo", "resumo": "Troque por um material de verdade.", "destino": "https://exemplo.com" }
+  ]
+}
